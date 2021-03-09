@@ -40,6 +40,12 @@ Chimp.on('message', message => {
             Chimp.commands.get('moveme').execute(message, args);
 
         break;
+        
+        case 'no':
+			
+			Chimp.commands.get('no').execute(message, args);
+			
+		break;
     }
 })
 
