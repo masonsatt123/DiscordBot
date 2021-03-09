@@ -53,4 +53,4 @@ Chimp.on('message', message => {
 //to kick member.kick('You were kicked for using this command more than once)
 
 //add 10 puff challenge
-//add cashin out pussy boi watch yo mouth
+//add cashin out boi watch yo mouth
