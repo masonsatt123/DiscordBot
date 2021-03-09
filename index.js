@@ -43,9 +43,9 @@ Chimp.on('message', message => {
         
         case 'no':
 			
-			Chimp.commands.get('no').execute(message, args);
+	    Chimp.commands.get('no').execute(message, args);
 			
-		break;
+	break;
     }
 })
 
